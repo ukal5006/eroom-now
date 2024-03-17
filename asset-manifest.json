@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/eroom-now/static/js/main.ff589912.js",
+    "main.js": "/eroom-now/static/js/main.a6b82345.js",
     "index.html": "/eroom-now/index.html",
-    "main.ff589912.js.map": "/eroom-now/static/js/main.ff589912.js.map"
+    "main.a6b82345.js.map": "/eroom-now/static/js/main.a6b82345.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff589912.js"
+    "static/js/main.a6b82345.js"
   ]
 }
