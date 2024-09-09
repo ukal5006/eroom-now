@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ede89a93-c975-4c5c-b2b4-bc3f27afc521)# 🚑 실시간 응급실 가용 침상 수 조회 서비스 eroom-now
+🚑 실시간 응급실 가용 침상 수 조회 서비스 eroom-now
 
 - 배포 URL : https://ukal5006.github.io/eroom-now/
 
