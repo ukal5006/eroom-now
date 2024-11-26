@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.90f6920e.css",
-    "main.js": "./static/js/main.709eb6cf.js",
-    "index.html": "./index.html",
-    "main.90f6920e.css.map": "./static/css/main.90f6920e.css.map",
-    "main.709eb6cf.js.map": "./static/js/main.709eb6cf.js.map"
+    "main.js": "/static/js/main.e63df54a.js",
+    "static/media/eroomMarker.png": "/static/media/eroomMarker.215352a2fb96d45bb1d2.png",
+    "index.html": "/index.html",
+    "main.e63df54a.js.map": "/static/js/main.e63df54a.js.map"
   },
   "entrypoints": [
-    "static/css/main.90f6920e.css",
-    "static/js/main.709eb6cf.js"
+    "static/js/main.e63df54a.js"
   ]
 }
