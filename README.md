@@ -38,11 +38,19 @@
 
 ### 1. 사용자 인근 응급실 및 가용 침상 수 조회
 
--   사용자는 5km, 10km, 15km 내에 있는 응급실의 리스트를 거리순으로 조회 할 수 있습니다.
+-   사용자는 버튼을 통해 5km, 10km, 15km 내에 있는 응급실의 리스트를 거리순으로 조회 할 수 있습니다.
+
+-   버튼을 통해 응급실 리스트를 새로고침 할 수 있습니다.
 
 -   응급실의 리스트는 응급실의 이름, 실시간 가용 침상 수, 거리를 표시합니다.
 
 -   실시간 가용 침상 수에 따라 녹색, 주황색, 빨간색, 회색으로 표시됩니다.
+
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/a9b28c5b-b080-471e-9f61-faf90a0262d5" width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/0f14e0d6-57ec-4313-8784-1dafa3d03282" width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/1d100ff5-e3c0-45a2-8983-c3a1eff60b4e" width="200" height="400"/>
+</div>
 
 ### 2. 응급실 기본 정보 및 예상 이동 정보 조회
 
@@ -52,7 +60,14 @@
 
 -   응급실의 기본 정보인 이름, 주소, 거리, 전화번호, 가용 침상 수를 확인할 수 있습니다.
 
+-   전화번호 옆의 수화기 버튼을 통해 전화를 걸 수 있습니다.
+
 -   예상 이동 시간 및 예상 택시비를 확인할 수 있습니다.
+
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/c76feaf9-a983-4603-a8e2-a0335b85f836" width="200" height="400"/>
+  <img src="https://github.com/user-attachments/assets/b061063b-84fe-4b25-9edb-a01e9799c93c" width="200" height="400"/>
+</div>
 
 ## 🚑 5. 성과
 
